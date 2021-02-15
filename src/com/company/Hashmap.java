@@ -39,6 +39,7 @@ public class Hashmap {
         //To print all the value we use values function
         System.out.println("Values in hash map "+hm.values());
 
+
     }
 
 }
