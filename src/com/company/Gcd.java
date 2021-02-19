@@ -23,6 +23,7 @@ public class Gcd {
             for (int i = 0; i < n; i++)
                 if (arr[i] != sarr[i] && arr[i] % min != 0) {
                     flag = 1;
+                    //break;
                     break;
                 }
             if(flag==1)
